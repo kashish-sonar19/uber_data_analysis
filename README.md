@@ -1,4 +1,4 @@
-<img width="1337" height="678" alt="image" src="https://github.com/user-attachments/assets/00524456-5b0f-4790-bea3-3f5bc50395af" />#  Uber Supply & Demand Gap Analysis
+
 
 **Author:** Kashish
 **Project Type:** Exploratory Data Analysis (EDA)
